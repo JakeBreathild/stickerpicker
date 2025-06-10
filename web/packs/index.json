@@ -1,6 +1,18 @@
 {
   "packs": [
-    "Extra.json"
+    "Extra.json",
+    "Meeko.json",
+    "Coconut.json",
+    "Vegas.json",
+    "LunaVixi.json",
+    "Dak.json",
+    "Leon.json",
+    "Zeitgeist.json",
+    "Wink.json",
+    "Sadwyn.json",
+    "PlushnBlue.json",
+    "VignetteKiba.json",
+    "Kisses.json"
   ],
   "homeserver_url": "https://matrix.org/"
 }
